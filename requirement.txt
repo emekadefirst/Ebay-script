@@ -3,6 +3,5 @@ pandas
 selenium
 webdriver_manager
 tqdm
-json
 datetime
-subprocess
+config
